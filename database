@@ -1,0 +1,9 @@
+CREATE (database:Database {name:"Webstreams"}),
+(Event_Name:Event{GlobalEventID:93453,Day:20200618181612, MonthYear:202006, Year:2020, FractionDate:2020.4569}),
+(Actor_1:Actor1{Actor1Code:"2341852392", Actor1Name:"Donald Trump", Actor1CountryCode:"029", Actor1EthicCode:"923", Actor1ReligionCode:"842", Actor1Type1Code:"233"}),
+(Actor_2:Actor2{Actor2Code:"912923920", Actor2Name:"Vladimir Putin", Actor2CountryCode:"129" , Actor2EthicCode:"9320", Actor2ReligionCode:"912", Actor2Type1Code:"845"}),
+(EAS:Event_Action_Attributes{RootEvent:232,EventCode:9256, EventBaseCode:3929, EventRootCode:0251 , QuadClass:935, GoldsteinScale:-2.5 ,NumMentions:321, NumSources:234 , NumArticles:95 ,AvgTone:-45 })
+(Actor1_Geography:Actor1Geo{Actor1Geo_Type:1,Actor1Geo_Fullname:"New-York, USA" ,Actor1Geo_CountryCode:"81", Actor1Geo_ADM1Code:"32",Actor1Geo_ADM2Code:"584", Actor1Geo_Lat:0.56,Actor1Geo_Long:0.32 , Actor1Geo_Features:"SH" }),
+(Actor2_Geography:Actor2Geo{Actor2Geo_Type:2,Actor2Geo_Fullname:"Moscow Russia" ,Actor2Geo_CountryCode:"23", Actor2Geo_ADM1Code:"17",Actor2Geo_ADM2Code:"23", Actor2Geo_Lat:0.123,Actor2Geo_Long:0.4323 , Actor2Geo_Features:"SH" }),
+(Action_Geography:ActionGeo{ActionGeo_Type:3 ,ActionGeo_Fullname:"Tartu,Estonia" ,ActionGeo_CountryCode:"45", ActionGeo_ADM1Code:"12",ActionGeo_ADM2Code: "54", ActionGeo_Lat:0,235,ActionGeo_Long:0.543, ActionGeo_Features:0.15}),
+(DMF: Data_Managment_Field{DATEADDED:20200618181612, SOURCEURL:"https://www.google.com" })
