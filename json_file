@@ -1,0 +1,269 @@
+{
+  "identity": 6,
+  "labels": [
+    "Database"
+  ],
+  "properties": {
+    "name": "Webstreams"
+  }
+}
+
+{
+  "identity": 7,
+  "labels": [
+    "Event"
+  ],
+  "properties": {
+    "GlobalEventID": 93453,
+    "Year": 2020,
+    "FractionDate": 2020.4569,
+    "Day": 1386988524,
+    "MonthYear": 202006
+  }
+}
+
+{
+  "identity": 8,
+  "labels": [
+    "Actor1"
+  ],
+  "properties": {
+    "Actor1Code": "2341852392",
+    "Actor1EthicCode": "923",
+    "Actor1CountryCode": "029",
+    "Actor1Type1Code": "233",
+    "Actor1ReligionCode": "842",
+    "Actor1Name": "Donald Trump"
+  }
+}
+
+{
+  "identity": 9,
+  "labels": [
+    "Actor2"
+  ],
+  "properties": {
+    "Actor2EthicCode": "9320",
+    "Actor2ReligionCode": "912",
+    "Actor2Code": "912923920",
+    "Actor2CountryCode": "129",
+    "Actor2Name": "Vladimir Putin",
+    "Actor2Type1Code": "845"
+  }
+}
+
+{
+  "identity": 10,
+  "labels": [
+    "Event_Action_Attributes"
+  ],
+  "properties": {
+    "AvgTone": -45,
+    "NumMentions": 321,
+    "QuadClass": 935,
+    "GoldsteinScale": -2.5,
+    "EventRootCode": 169,
+    "EventBaseCode": 3929,
+    "EventCode": 9256,
+    "NumSources": 234,
+    "NumArticles": 95,
+    "RootEvent": 232
+  }
+}
+
+{
+  "identity": 11,
+  "labels": [
+    "Actor1Geo"
+  ],
+  "properties": {
+    "Actor1Geo_CountryCode": "81",
+    "Actor1Geo_Fullname": "New-York, USA",
+    "Actor1Geo_Type": 1,
+    "Actor1Geo_Long": 0.32,
+    "Actor1Geo_Features": "SH",
+    "Actor1Geo_Lat": 0.56,
+    "Actor1Geo_ADM1Code": "32",
+    "Actor1Geo_ADM2Code": "584"
+  }
+}
+
+{
+  "identity": 15,
+  "labels": [
+    "Actor2Geo"
+  ],
+  "properties": {
+    "Actor2Geo_Long": 0.4323,
+    "Actor2Geo_CountryCode": "23",
+    "Actor2Geo_Lat": 0.123,
+    "Actor2Geo_ADM1Code": "17",
+    "Actor2Geo_ADM2Code": "23",
+    "Actor2Geo_Features": "SH",
+    "Actor2Geo_Type": 2,
+    "Actor2Geo_Fullname": "Moscow Russia"
+  }
+}
+
+{
+  "identity": 16,
+  "labels": [
+    "ActionGeo"
+  ],
+  "properties": {
+    "ActionGeo_Type": 3,
+    "ActionGeo_Long": 0.543,
+    "ActionGeo_ADM2Code": "54",
+    "ActionGeo_ADM1Code": "12",
+    "ActionGeo_Lat": 0.235,
+    "ActionGeo_Fullname": "Tartu,Estonia",
+    "ActionGeo_Features": 0.15,
+    "ActionGeo_CountryCode": "45"
+  }
+}
+
+{
+  "identity": 17,
+  "labels": [
+    "Data_Managment_Field"
+  ],
+  "properties": {
+    "SOURCEURL": "https://www.google.com",
+    "DATEADDED": 1386988524
+  }
+}
+
+{
+  "identity": 18,
+  "labels": [
+    "Database"
+  ],
+  "properties": {
+    "name": "Webstreams"
+  }
+}
+
+{
+  "identity": 19,
+  "labels": [
+    "Event"
+  ],
+  "properties": {
+    "GlobalEventID": 93453,
+    "Year": 2020,
+    "FractionDate": 2020.4569,
+    "Day": 1386988524,
+    "MonthYear": 202006
+  }
+}
+
+{
+  "identity": 20,
+  "labels": [
+    "Actor1"
+  ],
+  "properties": {
+    "Actor1Code": "2341852392",
+    "Actor1EthicCode": "923",
+    "Actor1CountryCode": "029",
+    "Actor1Type1Code": "233",
+    "Actor1ReligionCode": "842",
+    "Actor1Name": "Donald Trump"
+  }
+}
+
+{
+  "identity": 21,
+  "labels": [
+    "Actor2"
+  ],
+  "properties": {
+    "Actor2EthicCode": "9320",
+    "Actor2ReligionCode": "912",
+    "Actor2Code": "912923920",
+    "Actor2CountryCode": "129",
+    "Actor2Name": "Vladimir Putin",
+    "Actor2Type1Code": "845"
+  }
+}
+
+{
+  "identity": 22,
+  "labels": [
+    "Event_Action_Attributes"
+  ],
+  "properties": {
+    "AvgTone": -45,
+    "NumMentions": 321,
+    "QuadClass": 935,
+    "GoldsteinScale": -2.5,
+    "EventRootCode": 169,
+    "EventBaseCode": 3929,
+    "EventCode": 9256,
+    "NumSources": 234,
+    "NumArticles": 95,
+    "RootEvent": 232
+  }
+}
+
+{
+  "identity": 23,
+  "labels": [
+    "Actor1Geo"
+  ],
+  "properties": {
+    "Actor1Geo_CountryCode": "81",
+    "Actor1Geo_Fullname": "New-York, USA",
+    "Actor1Geo_Type": 1,
+    "Actor1Geo_Long": 0.32,
+    "Actor1Geo_Features": "SH",
+    "Actor1Geo_Lat": 0.56,
+    "Actor1Geo_ADM1Code": "32",
+    "Actor1Geo_ADM2Code": "584"
+  }
+}
+
+{
+  "identity": 24,
+  "labels": [
+    "Actor2Geo"
+  ],
+  "properties": {
+    "Actor2Geo_Long": 0.4323,
+    "Actor2Geo_CountryCode": "23",
+    "Actor2Geo_Lat": 0.123,
+    "Actor2Geo_ADM1Code": "17",
+    "Actor2Geo_ADM2Code": "23",
+    "Actor2Geo_Features": "SH",
+    "Actor2Geo_Type": 2,
+    "Actor2Geo_Fullname": "Moscow Russia"
+  }
+}
+
+{
+  "identity": 25,
+  "labels": [
+    "ActionGeo"
+  ],
+  "properties": {
+    "ActionGeo_Type": 3,
+    "ActionGeo_Long": 0.543,
+    "ActionGeo_ADM2Code": "54",
+    "ActionGeo_ADM1Code": "12",
+    "ActionGeo_Lat": 0.235,
+    "ActionGeo_Fullname": "Tartu,Estonia",
+    "ActionGeo_Features": 0.15,
+    "ActionGeo_CountryCode": "45"
+  }
+}
+
+{
+  "identity": 26,
+  "labels": [
+    "Data_Managment_Field"
+  ],
+  "properties": {
+    "SOURCEURL": "https://www.google.com",
+    "DATEADDED": 1386988524
+  }
+}
